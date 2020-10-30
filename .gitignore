@@ -63,7 +63,3 @@ crashlytics-build.properties
 
 # JetBrains Rider configuration
 /.idea/*
-.gitignore
-Assets/
-Packages/
-ProjectSettings/
